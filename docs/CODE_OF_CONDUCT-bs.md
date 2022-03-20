@@ -1,5 +1,8 @@
 # Kodeks ponašanja kontributora
 
+
+</div>
+
 Kao kontributori i održavaoci ovog projekta, sa namjerom njegovanja otvorene i pristupačne zajednice, obavezujemo se da ćemo poštovati sve koji daju doprinos kroz prijavljivanje problema, postavljanja zahtjeva za funkcionalnosti, ažuriranje dokumentacije, podnošenje Pull Request-a ili Patche-va, i druge aktivnosti.
 
 Posvećeni smo tome da učešće u ovom projektu učinimo iskustvom bez uznemiravanja, bez obzira na nivo iskustva, spol, spolni identitet i izražavanje, seksualnu orijentaciju, invaliditet, lični izgled, veličinu tijela, etničku pripadnost, starost, religiju ili nacionalnost.
